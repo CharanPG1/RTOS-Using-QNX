@@ -249,7 +249,7 @@ main, exiting
 ---
 
 # Output
-
+![output](ss.png)
 ---
 
 # Result
